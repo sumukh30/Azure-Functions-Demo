@@ -3,5 +3,7 @@ Azure Functions is a cloud service available on-demand that provides all the con
 For more info refer: https://docs.microsoft.com/en-us/azure/azure-functions/#:~:text=Azure%20Functions%20is%20a%20cloud,provides%20serverless%20compute%20for%20Azure.
 
 
+We have used http trigger for the function here
+
 Access link for function app : https://operationsumy.azurewebsites.net/api/sum?name=xxxyyyzzz&a=12&b=21&c=89&d=81  (Can change the query parameters)
 
