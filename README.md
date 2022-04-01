@@ -5,5 +5,5 @@ For more info refer: https://docs.microsoft.com/en-us/azure/azure-functions/#:~:
 
 We have used http trigger for the function here
 
-Access link for function app : https://operationsumy.azurewebsites.net/api/sum?name=xxxyyyzzz&a=12&b=21&c=89&d=81  (Can change the query parameters)
+Access link for function app : https://operationsumy.azurewebsites.net/api/sum?name=Avenger&a=21&b=32&c=89&d=81  (Can change the query parameters)
 
